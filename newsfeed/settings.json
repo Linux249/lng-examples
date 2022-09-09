@@ -1,0 +1,18 @@
+{
+  "appSettings": {
+    "stage": {
+      "clearColor": "0x00000000",
+      "useImageWorker": true
+    },
+    "debug": true
+  },
+  "platformSettings": {
+    "inspector": true,
+    "path": "./static",
+    "log": true,
+    "showVersion": true,
+    "imageServerUrl": "",
+    "proxyUrl": "",
+    "textureMode": true
+  }
+}

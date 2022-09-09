@@ -1,0 +1,20 @@
+{
+  "name": "com.warner.app.StorefrontDemo",
+  "description": "Storefront",
+  "scripts": {
+    "predev": "yarn build",
+    "dev": "lng dev",
+    "build": "lng build",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@lightningjs/sdk": "^3.1.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "@lightningjs/cli": "rdkcentral/Lightning-CLI",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3"
+  }
+}

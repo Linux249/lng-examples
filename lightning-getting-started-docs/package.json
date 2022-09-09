@@ -1,0 +1,7 @@
+{
+  "name": "com.metrological.app.TicTacToe",
+  "description": "TicTacToe",
+  "dependencies": {
+    "@lightningjs/sdk": "^4.2.0"
+  }
+}

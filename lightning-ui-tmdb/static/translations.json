@@ -1,0 +1,42 @@
+{
+  "en": {
+    "HOME_TITLE": "Home",
+    "BROWSE_TITLE": "Browse Titles",
+    "ENTITY_TITLE": "Entity Titles",
+    "HOME_BACKGROUND_TITLE": "Select Your Background",
+    "SOMETHING_NOT_QUITE_RIGHT": "Something's not quite right.",
+    "ANNOUNCE_SEARCH": "Search",
+    "ANNOUNCE_LIVETV": "Live TV",
+    "ANNOUNCE_PAGE_HINTTEXT": "Press LEFT or RIGHT to review items, press UP or DOWN to review categories, press CENTER to select",
+    "ANNOUNCE_VIEW_ALL": "View All, button",
+    "ANNOUNCE_CONTEXT_1_1": "1 of 1",
+    "ANNOUNCE_CONTEXT_PRESS_UP_VIEW_ALL": "{0} Press UP to View All",
+    "ANNOUNCE_AUDIO": "Audio: {0}",
+    "ANNOUNCE_LANGUAGES": "Languages: {0}",
+    "ANNOUNCE_COMMON_SENSE_MEDIA": "Common Sense Media",
+    "ANNOUNCE_COMMON_SENSE_MEDIA_RATING": "Common Sense Media rating {0}",
+    "ANNOUNCE_ROTTEN_TOMATOES_RATING": "Rotten Tomatoes rating {0}{1}",
+    "ANNOUNCE_AUDIENCE_RATING": "Audience rating {0}{1}",
+    "ANNOUNCE_LENGTH": "{0} of {1}",
+    "ANNOUNCE_POSITION_OF_5": "{0} of 5"
+  },
+  "es": {
+    "HOME_TITLE": "Casa",
+    "HOME_BACKGROUND_TITLE": "Selecciona tu fondo",
+    "SOMETHING_NOT_QUITE_RIGHT": "Algo no está bien.",
+    "ANNOUNCE_SEARCH": "búsqueda",
+    "ANNOUNCE_LIVETV": "TVenvivo",
+    "ANNOUNCE_PAGE_HINTTEXT": "Press LEFT or RIGHT to review items, press UP or DOWN to review categories, press CENTER to select",
+    "ANNOUNCE_VIEW_ALL": "Botón Ver todo",
+    "ANNOUNCE_CONTEXT_1_1": "1 de 1",
+    "ANNOUNCE_CONTEXT_PRESS_UP_VIEW_ALL": "{0} Presiona UP para Ver todo",
+    "ANNOUNCE_AUDIO": "Audio: {0}",
+    "ANNOUNCE_LANGUAGES": "Idiomas; {0}",
+    "ANNOUNCE_COMMON_SENSE_MEDIA": "Medios de Sentido Común",
+    "ANNOUNCE_COMMON_SENSE_MEDIA_RATING": "Puntaje de los Medios de Sentido Común {0}",
+    "ANNOUNCE_ROTTEN_TOMATOES_RATING": "Puntaje de Rotten Tomatoes {0}{1}",
+    "ANNOUNCE_AUDIENCE_RATING": "Puntaje de la audiencia {0}{1}",
+    "ANNOUNCE_LENGTH": "{0} de {1}",
+    "ANNOUNCE_POSITION_OF_5": "{0} de 5"
+  }
+}

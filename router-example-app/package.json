@@ -1,0 +1,7 @@
+{
+  "name": "com.metrological.app.RouterExample",
+  "description": "Router Example",
+  "dependencies": {
+    "@lightningjs/sdk": "^4.3.0"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "appSettings": {
+    "stage": {
+      "clearColor": "0xff202020",
+      "useImageWorker": true
+    },
+    "keys": {
+      "187": "NextRoute",
+      "189": "PreviousRoute"
+    },
+    "debug": false
+  },
+  "platformSettings": {
+    "path": "./static",
+    "log": true,
+    "showVersion": false,
+    "backtracking": true,
+    "gcOnUnload": true,
+    "lazyCreate": true,
+    "lazyDestroy": true,
+    "reuseInstance": true
+  }
+}

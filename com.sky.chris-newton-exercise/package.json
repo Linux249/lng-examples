@@ -1,0 +1,35 @@
+{
+  "name": "com.sky.chris-newton-exercise",
+  "description": "InterviewExercise",
+  "scripts": {
+    "e2e": "cypress open",
+    "dev": "lng dev"
+  },
+  "dependencies": {
+    "@lightningjs/sdk": "^4.3.0"
+  },
+  "lint-staged": {
+    "*.js": [
+      "eslint --fix",
+      "git add"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.2",
+    "babel-eslint": "^10.0.3",
+    "cypress": "^7.1.0",
+    "cypress-plugin-snapshots": "^1.4.4",
+    "eslint": "^6.6.0",
+    "eslint-config-prettier": "^6.7.0",
+    "eslint-plugin-prettier": "^3.1.1",
+    "husky": "^3.1.0",
+    "js-base64": "^2.5.2",
+    "lint-staged": "^9.4.3",
+    "prettier": "^1.19.1"
+  }
+}

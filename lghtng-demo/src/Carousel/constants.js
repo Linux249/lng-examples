@@ -1,0 +1,8 @@
+export const IMAGE_WIDTH = 266
+export const IMAGE_HEIGHT = 266
+
+export const EXPANDED_IMAGE_WIDTH = 362
+export const EXPANDED_IMAGE_HEIGHT = 362
+
+export const IMAGE_GUTTER = 50
+export const IMAGE_MARGIN = (EXPANDED_IMAGE_WIDTH - IMAGE_WIDTH) / 2 + IMAGE_GUTTER

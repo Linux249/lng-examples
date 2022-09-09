@@ -1,0 +1,7 @@
+{
+  "name": "LightningTemplates",
+  "description": "LightningTemplates",
+  "dependencies": {
+    "@lightningjs/sdk": "github:rdkcentral/Lightning-SDK"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "com.metrological.app.DisneyPlus",
+  "description": "LiveTile",
+  "scripts": {
+    "dev": "lng dev",
+    "build": "lng dist --es5"
+  },
+  "dependencies": {
+    "localCookie": "github:WebPlatformForEmbedded/localCookie",
+    "@lightningjs/sdk": "^4.3.3"
+  }
+}

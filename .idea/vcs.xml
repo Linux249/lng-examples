@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../com.radioplayer.app.lng" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Lightning" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LightningExamples_RadioPlayer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TicTacToe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/com.metrological.app.TMDB" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/com.metrological.app.hbo-player" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/com.metrological.app.hlsjs-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/com.metrological.app.myawesomeapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/com.metrological.app.videoplayer-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/com.metrological.app.videoplayer-example-advanced" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/com.metrological.app.vod-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/com.nuuk.example.rect" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/com.sky.chris-newton-exercise" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hbo-max-ui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lghtng-demo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lightning-getting-started-docs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lightning-ui-tmdb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/newsfeed" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/newsfeed/hbo-max-ui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/react-lightning-fiber" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/router-example-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rpg-tv-lng" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tmdb-challenge4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ui-component-examples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/video-player-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/videoplayer-example-advanced" vcs="Git" />
+  </component>
+</project>

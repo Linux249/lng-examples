@@ -1,0 +1,6 @@
+{
+  "name": "HLS.js example",
+  "identifier": "com.metrological.app.hlsjs-example",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}

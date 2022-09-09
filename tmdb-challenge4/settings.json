@@ -1,0 +1,30 @@
+{
+  "appSettings": {
+    "stage": {
+      "clearColor": "0x00000000",
+      "useImageWorker": true
+    },
+    "debug": false,
+    "imageQuality": 90,
+    "previewInterval": 3000,
+    "previewDuration": 10000,
+    "animateToFullscreen": true
+  },
+  "platformSettings": {
+    "log": true,
+    "path": "./static",
+    "showVersion": false,
+    "inspector": false,
+    "gcOnUnload": true,
+    "lazyCreate": false,
+    "lazyDestroy": false,
+    "quality": {
+      "animation": true,
+      "transitions": false,
+      "imageQuality": 50,
+      "shaders": false
+    },
+    "reuseInstance": true,
+    "logRoute": true
+  }
+}

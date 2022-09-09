@@ -1,0 +1,6 @@
+{
+  "name": "Video Player Example App",
+  "identifier": "com.metrological.app.videoplayer-example",
+  "version": "1.0.0",
+  "icon": "./static/icon.png"
+}

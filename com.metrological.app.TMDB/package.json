@@ -1,0 +1,10 @@
+{
+  "name": "com.metrological.app.DisneyPlus",
+  "description": "LiveTile",
+  "scripts": {
+    "dev": "lng dev"
+  },
+  "dependencies": {
+    "@lightningjs/sdk": "^3.0.0"
+  }
+}
